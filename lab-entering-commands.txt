@@ -169,4 +169,4 @@ What is the command, flag, argument, and prompt?
 Command = ls
 Flag = -a
 Argument = Desktop
-Prompt = ls -a Desktop
+Prompt = ent-v314-016:~ student$
